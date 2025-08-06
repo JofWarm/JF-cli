@@ -1,0 +1,13 @@
+{
+    "name": "create-vue-mini",
+    "version": "1.0.0",
+    "bin": {
+      "jf-cli": "./bin/index.js"
+    },
+    "dependencies": {
+      "chalk": "^5.3.0",
+      "fs-extra": "^11.1.1",
+      "inquirer": "^9.2.8"
+    }
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "name": "login-vue3",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite --port 3000",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "dependencies": {
+      "vue-router": "^4.x.x",
+      "vue": "^3.4.0",
+      "axios": "^1.x.x",
+      "element-plus": "^2.3.7"
+    },
+    "devDependencies": {
+      "vite": "^5.0.0",
+      "@vitejs/plugin-vue": "^4.0.0"
+    }
+  }
+  
